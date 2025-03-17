@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EtherTree</string>
+    <string name="ether_tree_main_topbar_title">Ether Tree</string>
+    <string name="dont_have_any_nodes_banner">You don\'t have any nodes yet</string>
+    <string name="create_node_fab_description">Create node FAB</string>
+    <string name="top_bar_back_button_description">Back</string>
+</resources>
